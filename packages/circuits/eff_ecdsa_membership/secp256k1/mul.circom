@@ -2,10 +2,6 @@ pragma circom 2.1.2;
 
 include "./add.circom";
 include "./double.circom";
-include "../../../../node_modules/circomlib/circuits/bitify.circom";
-include "../../../../node_modules/circomlib/circuits/comparators.circom";
-include "../../../../node_modules/circomlib/circuits/gates.circom";
-
 // 
 
 /**
